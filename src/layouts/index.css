@@ -1,0 +1,12 @@
+.menuContainer{
+  width: 200px;
+  margin-right: 20px;
+}
+
+.menuContainer >div{
+  text-align: center;
+  margin: 20px 0;
+  background: rgba(0,0,0,0.1);
+  cursor: pointer;
+}
+
